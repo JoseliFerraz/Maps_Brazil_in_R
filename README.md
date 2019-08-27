@@ -16,8 +16,7 @@ Linkedin https://www.linkedin.com/in/joseli-moreira-ferraz/
 
 GitHub https://github.com/JoseliFerraz
 
-Rpubs https://rpubs.com/joseli1987/513362
-
+Rpubs https://rpubs.com/joseli1987
 Contato: joseli.cde@gmail.com
 
 Quer conhecer mais sobre o universo R, alguns links interessantes para sua jornada:
